@@ -1,0 +1,1 @@
+{"id":"/merchant","name":"KhaoKhao Merchant","short_name":"KhaoKhao Merchant","start_url":"/merchant","scope":"/merchant","display":"standalone","background_color":"#F5F7F3","theme_color":"#151B19","icons":[{"src":"/assets/merchant-icon-192.png","sizes":"192x192","type":"image/png"},{"src":"/assets/merchant-icon-512.png","sizes":"512x512","type":"image/png"}]}
